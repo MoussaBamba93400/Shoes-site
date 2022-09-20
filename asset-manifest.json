@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/shoes_site/static/css/main.2df35452.css",
-    "main.js": "/shoes_site/static/js/main.cd0b5cec.js",
-    "static/media/Tn.jpg": "/shoes_site/static/media/Tn.15dc562bf339009f15cd.jpg",
-    "static/media/AJ4.jfif": "/shoes_site/static/media/AJ4.8b589bc52daffb71e36f.jfif",
-    "static/media/uptempo.jfif": "/shoes_site/static/media/uptempo.e33a401b2c560b728d5a.jfif",
-    "static/media/R.jfif": "/shoes_site/static/media/R.5a985682b272798375e7.jfif",
-    "static/media/Ozwego.jpg": "/shoes_site/static/media/Ozwego.93ae8a6af8ed9cb4cc1a.jpg",
-    "static/media/logo.jfif": "/shoes_site/static/media/logo.3a992c901e8897307e80.jfif",
-    "static/media/air-jordan.jpg": "/shoes_site/static/media/air-jordan.982a694889172d328248.jpg",
-    "static/media/AJ3.jpeg": "/shoes_site/static/media/AJ3.c2ef9fed8d5730a1a66f.jpeg",
-    "static/media/Chunky.jpg": "/shoes_site/static/media/Chunky.9d87097a7a16bdc314ed.jpg",
-    "index.html": "/shoes_site/index.html",
-    "main.2df35452.css.map": "/shoes_site/static/css/main.2df35452.css.map",
-    "main.cd0b5cec.js.map": "/shoes_site/static/js/main.cd0b5cec.js.map"
+    "main.css": "/shoes_site/public/index.html/static/css/main.2df35452.css",
+    "main.js": "/shoes_site/public/index.html/static/js/main.e8fa74dc.js",
+    "static/media/Tn.jpg": "/shoes_site/public/index.html/static/media/Tn.15dc562bf339009f15cd.jpg",
+    "static/media/AJ4.jfif": "/shoes_site/public/index.html/static/media/AJ4.8b589bc52daffb71e36f.jfif",
+    "static/media/uptempo.jfif": "/shoes_site/public/index.html/static/media/uptempo.e33a401b2c560b728d5a.jfif",
+    "static/media/R.jfif": "/shoes_site/public/index.html/static/media/R.5a985682b272798375e7.jfif",
+    "static/media/Ozwego.jpg": "/shoes_site/public/index.html/static/media/Ozwego.93ae8a6af8ed9cb4cc1a.jpg",
+    "static/media/logo.jfif": "/shoes_site/public/index.html/static/media/logo.3a992c901e8897307e80.jfif",
+    "static/media/air-jordan.jpg": "/shoes_site/public/index.html/static/media/air-jordan.982a694889172d328248.jpg",
+    "static/media/AJ3.jpeg": "/shoes_site/public/index.html/static/media/AJ3.c2ef9fed8d5730a1a66f.jpeg",
+    "static/media/Chunky.jpg": "/shoes_site/public/index.html/static/media/Chunky.9d87097a7a16bdc314ed.jpg",
+    "index.html": "/shoes_site/public/index.html/index.html",
+    "main.2df35452.css.map": "/shoes_site/public/index.html/static/css/main.2df35452.css.map",
+    "main.e8fa74dc.js.map": "/shoes_site/public/index.html/static/js/main.e8fa74dc.js.map"
   },
   "entrypoints": [
     "static/css/main.2df35452.css",
-    "static/js/main.cd0b5cec.js"
+    "static/js/main.e8fa74dc.js"
   ]
 }
