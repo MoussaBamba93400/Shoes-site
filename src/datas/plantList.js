@@ -21,7 +21,7 @@ export const plantList = [
 		category: 'jordan',
 		id: '2ab',
 		cover: AJ1,
-		price: 300
+		price: 200
 	},
 
 	{
@@ -29,7 +29,7 @@ export const plantList = [
 		category: 'nike',
 		id: '3sd',
 		cover: Dunk,
-		price: 190
+		price: 180
 	},
 	{
 		name: 'Jordan 4',
